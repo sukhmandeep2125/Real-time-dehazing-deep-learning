@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pth
+*.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+.DS_Store
+*.log
+
+# Ignore result and dataset folders (optional, if too large)
+results/
+output/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# Ignore VSCode and Jupyter hidden folders
+.vscode/
+.ipynb_checkpoints/
